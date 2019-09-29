@@ -8,26 +8,31 @@
    font-family: 'Roboto', sans-serif;
    line-height: 1.8rem;
  }
+
  h1{
    font-size:2rem;
    padding: 30px;
  }
  main{
    text-align: center;
+   background-image: url("https://images.pexels.com/photos/386044/pexels-photo-386044.png?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+   background-size: cover;
  }
 
  p{
    margin-top: 20px;
    font-weight: lighter;
-   font-size: 1.3rem;
+   font-size: 1.5rem;
  }
 
  #ul{
-   width: 50%;
+   width: 60%;
    margin: 20px auto;
+   padding: 20px;
  }
  ul{
    text-align:left;
+   margin: 30px 0px;
  }
  li{
    margin-bottom: 10px;
@@ -41,6 +46,12 @@
  a{
     text-decoration: none;
     font-style: italic;
+    background-color: #fff;
+    color: #255F85;
+ }
+
+ h6{
+    font-weight: lighter;
  }
  
  
