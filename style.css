@@ -1,0 +1,28 @@
+*{
+   margin: 0;
+   font-size: 18px;
+ }
+ h1{
+   font-size:2rem;
+ }
+ main{
+   text-align: center;
+ }
+ #ul{
+   width: 90%;
+   margin: 20px auto;
+ }
+ ul{
+   text-align:left;
+ }
+ li{
+   margin-bottom: 10px;
+ }
+ img{
+   display: block;
+   width: 100%;
+   max-width: 420px;
+   margin: 0 auto;
+ }
+ 
+ 
